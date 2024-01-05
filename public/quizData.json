@@ -1,0 +1,1454 @@
+[
+    {
+        "category": "Geography",
+        "que": "In which continent is India located?",
+        "options": [
+            "Asia",
+            "Europe",
+            "South America",
+            "Australia"
+        ],
+        "ans": "Asia"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the capital of Canada?",
+        "options": [
+            "Toronto",
+            "Ottawa",
+            "Vancouver",
+            "Montreal"
+        ],
+        "ans": "Ottawa"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does CPU stand for?",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Processor Unit",
+            "Central Personal Unit"
+        ],
+        "ans": "Central Processing Unit"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the main purpose of an operating system?",
+        "options": [
+            "Running applications",
+            "Managing hardware resources",
+            "Connecting to the internet",
+            "Creating documents"
+        ],
+        "ans": "Managing hardware resources"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first President of the United States?",
+        "options": [
+            "John Adams",
+            "Thomas Jefferson",
+            "George Washington",
+            "James Madison"
+        ],
+        "ans": "George Washington"
+    },
+    {
+        "category": "History",
+        "que": "In which year did World War II end?",
+        "options": [
+            "1943",
+            "1945",
+            "1947",
+            "1950"
+        ],
+        "ans": "1945"
+    },
+    {
+        "category": "Astronomy",
+        "que": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "ans": "Mars"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the largest moon of Jupiter?",
+        "options": [
+            "Ganymede",
+            "Io",
+            "Europa",
+            "Callisto"
+        ],
+        "ans": "Ganymede"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of pi (π) to two decimal places?",
+        "options": [
+            "3.14",
+            "3.16",
+            "3.12",
+            "3.18"
+        ],
+        "ans": "3.14"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the equation: 2x + 5 = 11",
+        "options": [
+            "x = 3",
+            "x = 2",
+            "x = 5",
+            "x = 6"
+        ],
+        "ans": "x = 3"
+    },
+    {
+        "category": "Biology",
+        "que": "Which organ is responsible for pumping blood in the human body?",
+        "options": [
+            "Lungs",
+            "Heart",
+            "Liver",
+            "Kidneys"
+        ],
+        "ans": "Heart"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the process by which plants make their own food?",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Digestion",
+            "Transpiration"
+        ],
+        "ans": "Photosynthesis"
+    },
+    {
+        "category": "Geography",
+        "que": "Which river is the longest in the world?",
+        "options": [
+            "Amazon",
+            "Nile",
+            "Yangtze",
+            "Mississippi"
+        ],
+        "ans": "Nile"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "ans": "Canberra"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does HTML stand for?",
+        "options": [
+            "Hypertext Markup Language",
+            "Hyperlink and Text Markup Language",
+            "High-Level Text Markup Language",
+            "Home Tool Markup Language"
+        ],
+        "ans": "Hypertext Markup Language"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of CSS in web development?",
+        "options": [
+            "Creating databases",
+            "Styling web pages",
+            "Handling server requests",
+            "Executing JavaScript code"
+        ],
+        "ans": "Styling web pages"
+    },
+    {
+        "category": "History",
+        "que": "Who was the famous Egyptian queen known for her relationship with Mark Antony and Julius Caesar?",
+        "options": [
+            "Cleopatra",
+            "Nefertiti",
+            "Hatshepsut",
+            "Isis"
+        ],
+        "ans": "Cleopatra"
+    },
+    {
+        "category": "History",
+        "que": "What event marked the beginning of World War I?",
+        "options": [
+            "The sinking of the Lusitania",
+            "The assassination of Archduke Franz Ferdinand",
+            "The Battle of the Bulge",
+            "The signing of the Treaty of Versailles"
+        ],
+        "ans": "The assassination of Archduke Franz Ferdinand"
+    },
+    {
+        "category": "Astronomy",
+        "que": "Which galaxy is home to our solar system?",
+        "options": [
+            "Andromeda",
+            "Milky Way",
+            "Triangulum",
+            "Messier 87"
+        ],
+        "ans": "Milky Way"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the name of the largest moon of Saturn?",
+        "options": [
+            "Titan",
+            "Enceladus",
+            "Iapetus",
+            "Mimas"
+        ],
+        "ans": "Titan"
+    },
+    {
+        "category": "Maths",
+        "que": "Simplify the expression: 2(x + 4) - 3(2x - 5)",
+        "options": [
+            "5x + 23",
+            "-x - 17",
+            "3x + 13",
+            "x + 3"
+        ],
+        "ans": "x + 3"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the area of a rectangle with length 8 units and width 5 units?",
+        "options": [
+            "40 square units",
+            "13 square units",
+            "26 square units",
+            "35 square units"
+        ],
+        "ans": "40 square units"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Ribosome",
+            "Mitochondrion",
+            "Endoplasmic reticulum"
+        ],
+        "ans": "Mitochondrion"
+    },
+    {
+        "category": "Biology",
+        "que": "In humans, what is the role of the red blood cells?",
+        "options": [
+            "Carrying oxygen",
+            "Fighting infections",
+            "Digesting food",
+            "Producing hormones"
+        ],
+        "ans": "Carrying oxygen"
+    },
+    {
+        "category": "Geography",
+        "que": "Which mountain is the highest in Africa?",
+        "options": [
+            "Mount Everest",
+            "Mount Kilimanjaro",
+            "Mount McKinley",
+            "Mount Elbrus"
+        ],
+        "ans": "Mount Kilimanjaro"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the largest desert in the world?",
+        "options": [
+            "Sahara Desert",
+            "Arabian Desert",
+            "Gobi Desert",
+            "Antarctica"
+        ],
+        "ans": "Antarctica"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of the 'break' statement in programming?",
+        "options": [
+            "To end the program",
+            "To exit a loop prematurely",
+            "To skip a conditional statement",
+            "To create a line break in output"
+        ],
+        "ans": "To exit a loop prematurely"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the difference between '==' and '===' in JavaScript?",
+        "options": [
+            "Both are the same",
+            " '==' performs type coercion, '===' does not",
+            "'===' performs type coercion, '==' does not",
+            "'==' checks value and type, '===' checks value only"
+        ],
+        "ans": "'===' checks value and type, '==' checks value only"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first President of the United States?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "Abraham Lincoln"
+        ],
+        "ans": "George Washington"
+    },
+    {
+        "category": "History",
+        "que": "What ancient civilization built the pyramids?",
+        "options": [
+            "Greek",
+            "Roman",
+            "Egyptian",
+            "Mesopotamian"
+        ],
+        "ans": "Egyptian"
+    },
+    {
+        "category": "Astronomy",
+        "que": "Which planet is known as the 'Red Planet'?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "ans": "Mars"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the name of the largest moon of Neptune?",
+        "options": [
+            "Triton",
+            "Io",
+            "Ganymede",
+            "Enceladus"
+        ],
+        "ans": "Triton"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the equation: 3x - 7 = 14",
+        "options": [
+            "x = 5",
+            "x = 7",
+            "x = 8",
+            "x = 9"
+        ],
+        "ans": "x = 7"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of π (pi) to two decimal places?",
+        "options": [
+            "3.14",
+            "3.16",
+            "3.18",
+            "3.20"
+        ],
+        "ans": "3.14"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the function of the cerebellum in the brain?",
+        "options": [
+            "Memory storage",
+            "Coordination and balance",
+            "Emotional control",
+            "Speech production"
+        ],
+        "ans": "Coordination and balance"
+    },
+    {
+        "category": "Biology",
+        "que": "Which gas do plants primarily absorb during photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "ans": "Carbon dioxide"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the capital of Australia?",
+        "options": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "ans": "Canberra"
+    },
+    {
+        "category": "Geography",
+        "que": "Which river is the longest in the world?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "ans": "Nile River"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of a constructor in object-oriented programming?",
+        "options": [
+            "To create an instance of a class",
+            "To initialize the attributes of an object",
+            "To define a method in a class",
+            "To delete an object"
+        ],
+        "ans": "To initialize the attributes of an object"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the difference between 'var', 'let', and 'const' in JavaScript for variable declaration?",
+        "options": [
+            "No difference",
+            "'var' has block scope, 'let' has function scope, 'const' is constant",
+            "'var' is constant, 'let' has block scope, 'const' has function scope",
+            "'var' is obsolete, 'let' and 'const' are modern replacements"
+        ],
+        "ans": "'var' has block scope, 'let' has function scope, 'const' is constant"
+    },
+    {
+        "category": "History",
+        "que": "Who was the queen of ancient Egypt known for her beauty and intelligence?",
+        "options": [
+            "Nefertiti",
+            "Cleopatra",
+            "Hatshepsut",
+            "Nefertari"
+        ],
+        "ans": "Cleopatra"
+    },
+    {
+        "category": "History",
+        "que": "What event marked the beginning of World War I?",
+        "options": [
+            "The sinking of the Lusitania",
+            "The assassination of Archduke Franz Ferdinand",
+            "The invasion of Poland",
+            "The signing of the Treaty of Versailles"
+        ],
+        "ans": "The assassination of Archduke Franz Ferdinand"
+    },
+    {
+        "category": "Astronomy",
+        "que": "Which galaxy is our solar system a part of?",
+        "options": [
+            "Andromeda Galaxy",
+            "Milky Way Galaxy",
+            "Triangulum Galaxy",
+            "Sombrero Galaxy"
+        ],
+        "ans": "Milky Way Galaxy"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the phenomenon where light bends as it passes through a gravitational field?",
+        "options": [
+            "Eclipse",
+            "Refraction",
+            "Diffraction",
+            "Gravitational lensing"
+        ],
+        "ans": "Gravitational lensing"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the Pythagorean theorem?",
+        "options": [
+            "a² + b = c",
+            "a + b² = c",
+            "a² = b + c",
+            "a² + b² = c²"
+        ],
+        "ans": "a² + b² = c²"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the expression: 4x + 7 = 19",
+        "options": [
+            "x = 3",
+            "x = 4",
+            "x = 5",
+            "x = 6"
+        ],
+        "ans": "x = 3"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Endoplasmic reticulum",
+            "Golgi apparatus"
+        ],
+        "ans": "Mitochondria"
+    },
+    {
+        "category": "Biology",
+        "que": "Which system in the human body is responsible for circulation?",
+        "options": [
+            "Respiratory system",
+            "Nervous system",
+            "Circulatory system",
+            "Digestive system"
+        ],
+        "ans": "Circulatory system"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the largest desert in the world?",
+        "options": [
+            "Sahara Desert",
+            "Gobi Desert",
+            "Antarctica",
+            "Arabian Desert"
+        ],
+        "ans": "Antarctica"
+    },
+    {
+        "category": "Geography",
+        "que": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Vietnam"
+        ],
+        "ans": "Japan"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the capital of Brazil?",
+        "options": [
+            "Sao Paulo",
+            "Brasilia",
+            "Rio de Janeiro",
+            "Salvador"
+        ],
+        "ans": "Brasilia"
+    },
+    {
+        "category": "Geography",
+        "que": "Which mountain range is the longest in the world?",
+        "options": [
+            "Andes",
+            "Himalayas",
+            "Rocky Mountains",
+            "Alps"
+        ],
+        "ans": "Andes"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does the acronym HTML stand for?",
+        "options": [
+            "Hyperlink and Text Markup Language",
+            "Hypertext Markup Language",
+            "High-Level Text Markup Language",
+            "Hyper Transfer Markup Language"
+        ],
+        "ans": "Hypertext Markup Language"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of the 'git clone' command in Git?",
+        "options": [
+            "To create a new repository",
+            "To copy a repository from a remote source",
+            "To delete a repository",
+            "To switch branches"
+        ],
+        "ans": "To copy a repository from a remote source"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does API stand for in programming?",
+        "options": [
+            "Application Programming Interface",
+            "Advanced Programming Interface",
+            "Automated Programming Interface",
+            "Application Process Integration"
+        ],
+        "ans": "Application Programming Interface"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of a 'try...catch' block in JavaScript?",
+        "options": [
+            "To define a function",
+            "To handle errors during code execution",
+            "To declare a variable",
+            "To create a loop"
+        ],
+        "ans": "To handle errors during code execution"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first President of the United States?",
+        "options": [
+            "John Adams",
+            "Thomas Jefferson",
+            "George Washington",
+            "James Madison"
+        ],
+        "ans": "George Washington"
+    },
+    {
+        "category": "History",
+        "que": "What event marked the end of the Cold War?",
+        "options": [
+            "Fall of the Berlin Wall",
+            "Cuban Missile Crisis",
+            "Vietnam War",
+            "Space Race"
+        ],
+        "ans": "Fall of the Berlin Wall"
+    },
+    {
+        "category": "History",
+        "que": "Who was the leader of the Indian independence movement against British rule?",
+        "options": [
+            "Jawaharlal Nehru",
+            "Mahatma Gandhi",
+            "Subhas Chandra Bose",
+            "Sardar Patel"
+        ],
+        "ans": "Mahatma Gandhi"
+    },
+    {
+        "category": "History",
+        "que": "Which ancient civilization is known for building the Pyramids of Giza?",
+        "options": [
+            "Roman Empire",
+            "Greek Civilization",
+            "Mesopotamia",
+            "Ancient Egypt"
+        ],
+        "ans": "Ancient Egypt"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the largest planet in our solar system?",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars",
+            "Venus"
+        ],
+        "ans": "Jupiter"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the name of the closest galaxy to the Milky Way?",
+        "options": [
+            "Andromeda Galaxy",
+            "Triangulum Galaxy",
+            "Sombrero Galaxy",
+            "Pinwheel Galaxy"
+        ],
+        "ans": "Andromeda Galaxy"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a supernova?",
+        "options": [
+            "A type of comet",
+            "A type of asteroid",
+            "An exploding star",
+            "A type of planet"
+        ],
+        "ans": "An exploding star"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a light-year?",
+        "options": [
+            "A measure of time",
+            "A unit of brightness",
+            "A unit of distance",
+            "A type of star"
+        ],
+        "ans": "A unit of distance"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of π (pi) to two decimal places?",
+        "options": [
+            "3.14",
+            "3.16",
+            "3.18",
+            "3.20"
+        ],
+        "ans": "3.14"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the quadratic equation: x² - 5x + 6 = 0",
+        "options": [
+            "x = 2, x = 3",
+            "x = 1, x = 5",
+            "x = -2, x = -3",
+            "x = -1, x = -6"
+        ],
+        "ans": "x = 2, x = 3"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the sum of the angles in a triangle?",
+        "options": [
+            "90 degrees",
+            "120 degrees",
+            "180 degrees",
+            "360 degrees"
+        ],
+        "ans": "180 degrees"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of the square root of 25?",
+        "options": [
+            "2",
+            "5",
+            "4",
+            "3"
+        ],
+        "ans": "5"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the function of red blood cells in the human body?",
+        "options": [
+            "Carrying oxygen",
+            "Digesting food",
+            "Producing hormones",
+            "Fighting infections"
+        ],
+        "ans": "Carrying oxygen"
+    },
+    {
+        "category": "Biology",
+        "que": "Which organ is responsible for filtering blood in the human body?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Kidneys",
+            "Lungs"
+        ],
+        "ans": "Kidneys"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the process by which plants make their own food using sunlight?",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Transpiration",
+            "Fermentation"
+        ],
+        "ans": "Photosynthesis"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the largest organ in the human body?",
+        "options": [
+            "Liver",
+            "Heart",
+            "Skin",
+            "Lungs"
+        ],
+        "ans": "Skin"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the capital of Canada?",
+        "options": [
+            "Toronto",
+            "Montreal",
+            "Ottawa",
+            "Vancouver"
+        ],
+        "ans": "Ottawa"
+    },
+    {
+        "category": "Geography",
+        "que": "Which river is the longest in the world?",
+        "options": [
+            "Amazon River",
+            "Nile River",
+            "Yangtze River",
+            "Mississippi River"
+        ],
+        "ans": "Nile River"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the smallest country in the world?",
+        "options": [
+            "Monaco",
+            "San Marino",
+            "Vatican City",
+            "Liechtenstein"
+        ],
+        "ans": "Vatican City"
+    },
+    {
+        "category": "Geography",
+        "que": "In which ocean is the Bermuda Triangle located?",
+        "options": [
+            "Pacific Ocean",
+            "Indian Ocean",
+            "Atlantic Ocean",
+            "Arctic Ocean"
+        ],
+        "ans": "Atlantic Ocean"
+    },
+    {
+        "category": "Geography",
+        "que": "Which mountain is the tallest in Africa?",
+        "options": [
+            "Mount Kilimanjaro",
+            "Mount Kenya",
+            "Simien Mountains",
+            "Ras Dashen"
+        ],
+        "ans": "Mount Kilimanjaro"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the difference between '==' and '===' in JavaScript?",
+        "options": [
+            "Both are identical",
+            " '==' checks value, '===' checks value and type",
+            "No difference",
+            " '===' is deprecated"
+        ],
+        "ans": " '==' checks value, '===' checks value and type"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of the 'this' keyword in JavaScript?",
+        "options": [
+            "Refers to the current function",
+            "Refers to the global object",
+            "Refers to the object it belongs to",
+            "Reserved keyword with no purpose"
+        ],
+        "ans": "Refers to the object it belongs to"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is a callback function?",
+        "options": [
+            "A function passed as an argument to another function",
+            "A function with a 'callback' parameter",
+            "A function that calls another function",
+            "A function with no parameters"
+        ],
+        "ans": "A function passed as an argument to another function"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of the 'npm' command in Node.js?",
+        "options": [
+            "Node Package Manager",
+            "Node Project Manager",
+            "Node Process Manager",
+            "Node Package Module"
+        ],
+        "ans": "Node Package Manager"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is a database index used for?",
+        "options": [
+            "To store data",
+            "To improve query performance",
+            "To create relationships between tables",
+            "To define table schemas"
+        ],
+        "ans": "To improve query performance"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first Emperor of China?",
+        "options": [
+            "Emperor Qin Shi Huang",
+            "Emperor Han Wudi",
+            "Emperor Tang Taizong",
+            "Emperor Song Taizu"
+        ],
+        "ans": "Emperor Qin Shi Huang"
+    },
+    {
+        "category": "History",
+        "que": "What event led to the start of World War I?",
+        "options": [
+            "Assassination of Archduke Franz Ferdinand",
+            "Treaty of Versailles",
+            "Attack on Pearl Harbor",
+            "Russian Revolution"
+        ],
+        "ans": "Assassination of Archduke Franz Ferdinand"
+    },
+    {
+        "category": "History",
+        "que": "Who wrote 'The Communist Manifesto'?",
+        "options": [
+            "Karl Marx",
+            "Vladimir Lenin",
+            "Friedrich Engels",
+            "Mao Zedong"
+        ],
+        "ans": "Karl Marx"
+    },
+    {
+        "category": "History",
+        "que": "Which ancient civilization built the city of Machu Picchu?",
+        "options": [
+            "Maya",
+            "Inca",
+            "Aztec",
+            "Mesopotamia"
+        ],
+        "ans": "Inca"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first woman to win a Nobel Prize?",
+        "options": [
+            "Marie Curie",
+            "Rosalind Franklin",
+            "Dorothy Crowfoot Hodgkin",
+            "Barbara McClintock"
+        ],
+        "ans": "Marie Curie"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a black hole?",
+        "options": [
+            "A region of dense, dark matter",
+            "A collapsing star with infinite density",
+            "A celestial body that emits no light",
+            "A distant galaxy"
+        ],
+        "ans": "A collapsing star with infinite density"
+    },
+    {
+        "category": "Astronomy",
+        "que": "How many moons does Jupiter have?",
+        "options": [
+            "1",
+            "12",
+            "79",
+            "150"
+        ],
+        "ans": "79"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the name of the largest moon of Saturn?",
+        "options": [
+            "Titan",
+            "Enceladus",
+            "Iapetus",
+            "Dione"
+        ],
+        "ans": "Titan"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a supernova remnant?",
+        "options": [
+            "A nebula formed after a supernova explosion",
+            "The core left behind after a supernova",
+            "A star in the process of becoming a supernova",
+            "The shockwave from a supernova"
+        ],
+        "ans": "A nebula formed after a supernova explosion"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the Great Red Spot on Jupiter?",
+        "options": [
+            "A massive storm",
+            "A giant volcano",
+            "A high-altitude cloud",
+            "A permanent aurora"
+        ],
+        "ans": "A massive storm"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of pi (π) to two decimal places?",
+        "options": [
+            "3.14",
+            "3.16",
+            "3.18",
+            "3.20"
+        ],
+        "ans": "3.14"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the Fibonacci sequence?",
+        "options": [
+            "1, 2, 4, 8, 16, ...",
+            "1, 3, 6, 10, 15, ...",
+            "0, 1, 1, 2, 3, ...",
+            "2, 4, 8, 16, 32, ..."
+        ],
+        "ans": "0, 1, 1, 2, 3, ..."
+    },
+    {
+        "category": "Maths",
+        "que": "If a triangle has angles of 30°, 60°, and 90°, what is the ratio of the sides?",
+        "options": [
+            "1:1:√2",
+            "1:√3:2",
+            "1:2:√3",
+            "1:√2:2"
+        ],
+        "ans": "1:√3:2"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the area of a circle with radius 5 units?",
+        "options": [
+            "25π square units",
+            "50π square units",
+            "75π square units",
+            "100π square units"
+        ],
+        "ans": "25π square units"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the equation: 2x + 5 = 15",
+        "options": [
+            "x = 5",
+            "x = 7",
+            "x = 10",
+            "x = 15"
+        ],
+        "ans": "x = 5"
+    },
+    {
+        "category": "Biology",
+        "que": "Which gas do plants absorb during photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "ans": "Carbon Dioxide"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the function of the human respiratory system?",
+        "options": [
+            "Pumping blood",
+            "Digesting food",
+            "Breathing oxygen",
+            "Filtering waste"
+        ],
+        "ans": "Breathing oxygen"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the powerhouse of the cell?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Endoplasmic Reticulum",
+            "Golgi Apparatus"
+        ],
+        "ans": "Mitochondria"
+    },
+    {
+        "category": "Biology",
+        "que": "How many chambers are there in the human heart?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "ans": "Four"
+    },
+    {
+        "category": "Biology",
+        "que": "Which vitamin is known as the 'sunshine vitamin'?",
+        "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin E"
+        ],
+        "ans": "Vitamin D"
+    },
+    {
+        "category": "Geography",
+        "que": "Which country is known as the 'Land of the Rising Sun'?",
+        "options": [
+            "China",
+            "Japan",
+            "South Korea",
+            "Vietnam"
+        ],
+        "ans": "Japan"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the world's largest desert?",
+        "options": [
+            "Sahara Desert",
+            "Arctic Desert",
+            "Antarctic Desert",
+            "Gobi Desert"
+        ],
+        "ans": "Antarctic Desert"
+    },
+    {
+        "category": "Geography",
+        "que": "Which river is known as the 'River of Sorrows'?",
+        "options": [
+            "Nile River",
+            "Yangtze River",
+            "Indus River",
+            "Amur River"
+        ],
+        "ans": "Amur River"
+    },
+    {
+        "category": "Geography",
+        "que": "What is the highest mountain in North America?",
+        "options": [
+            "Denali",
+            "Mount Logan",
+            "Mount St. Elias",
+            "Pico de Orizaba"
+        ],
+        "ans": "Denali"
+    },
+    {
+        "category": "Geography",
+        "que": "Which city is located at the confluence of the Blue Nile and White Nile rivers?",
+        "options": [
+            "Cairo",
+            "Khartoum",
+            "Addis Ababa",
+            "Kigali"
+        ],
+        "ans": "Khartoum"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does HTML stand for?",
+        "options": [
+            "Hypertext Markup Language",
+            "Hyperlink and Text Markup Language",
+            "High-Level Text Management Language",
+            "Hyper Transfer Markup Language"
+        ],
+        "ans": "Hypertext Markup Language"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the purpose of CSS?",
+        "options": [
+            "To create dynamic web pages",
+            "To style and layout web pages",
+            "To handle server-side scripting",
+            "To manage database connections"
+        ],
+        "ans": "To style and layout web pages"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is the difference between HTTP and HTTPS?",
+        "options": [
+            "HTTP is faster",
+            "HTTPS is more secure",
+            "HTTP uses port 80, HTTPS uses port 443",
+            "There is no difference"
+        ],
+        "ans": "HTTPS is more secure"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What is a 'git commit' in version control?",
+        "options": [
+            "Staging changes",
+            "Recording changes",
+            "Discarding changes",
+            "Merging branches"
+        ],
+        "ans": "Recording changes"
+    },
+    {
+        "category": "Computer Science",
+        "que": "What does API stand for?",
+        "options": [
+            "Application Programming Interface",
+            "Advanced Programming Interface",
+            "Automated Programming Interface",
+            "Application Process Interface"
+        ],
+        "ans": "Application Programming Interface"
+    },
+    {
+        "category": "History",
+        "que": "Who was the founder of the Maurya Empire in ancient India?",
+        "options": [
+            "Ashoka the Great",
+            "Chandragupta Maurya",
+            "Bindusara",
+            "Ajatashatru"
+        ],
+        "ans": "Chandragupta Maurya"
+    },
+    {
+        "category": "History",
+        "que": "Which war was known as the 'Great War' before World War II?",
+        "options": [
+            "American Civil War",
+            "Napoleonic Wars",
+            "Franco-Prussian War",
+            "World War I"
+        ],
+        "ans": "World War I"
+    },
+    {
+        "category": "History",
+        "que": "Who was the first President of the United States?",
+        "options": [
+            "Thomas Jefferson",
+            "George Washington",
+            "John Adams",
+            "James Madison"
+        ],
+        "ans": "George Washington"
+    },
+    {
+        "category": "History",
+        "que": "Which ancient civilization built the city of Mohenjo-Daro?",
+        "options": [
+            "Mesopotamia",
+            "Indus Valley Civilization",
+            "Ancient Egypt",
+            "Ancient Greece"
+        ],
+        "ans": "Indus Valley Civilization"
+    },
+    {
+        "category": "History",
+        "que": "What was the main cause of the French Revolution?",
+        "options": [
+            "Economic inequality",
+            "Religious conflicts",
+            "Foreign invasions",
+            "Monarchy stability"
+        ],
+        "ans": "Economic inequality"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a light-year?",
+        "options": [
+            "A unit of time",
+            "A unit of distance",
+            "A unit of brightness",
+            "A unit of mass"
+        ],
+        "ans": "A unit of distance"
+    },
+    {
+        "category": "Astronomy",
+        "que": "Which planet is known as the 'Red Planet'?",
+        "options": [
+            "Mars",
+            "Venus",
+            "Jupiter",
+            "Saturn"
+        ],
+        "ans": "Mars"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the Kuiper Belt?",
+        "options": [
+            "A region of comets",
+            "A giant star cluster",
+            "A planetary nebula",
+            "A group of asteroids"
+        ],
+        "ans": "A region of comets"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is a black hole?",
+        "options": [
+            "A collapsed star",
+            "A type of galaxy",
+            "An exploding supernova",
+            "A massive asteroid"
+        ],
+        "ans": "A collapsed star"
+    },
+    {
+        "category": "Astronomy",
+        "que": "What is the Hubble Space Telescope used for?",
+        "options": [
+            "Observing distant galaxies",
+            "Detecting exoplanets",
+            "Studying black holes",
+            "Measuring Earth's atmosphere"
+        ],
+        "ans": "Observing distant galaxies"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the Pythagorean theorem?",
+        "options": [
+            "a² + b² = c²",
+            "πr²",
+            "E = mc²",
+            "F = ma"
+        ],
+        "ans": "a² + b² = c²"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the LCM of 12 and 18?",
+        "options": [
+            "6",
+            "12",
+            "18",
+            "36"
+        ],
+        "ans": "36"
+    },
+    {
+        "category": "Maths",
+        "que": "Solve the equation: 3x + 7 = 22",
+        "options": [
+            "x = 5",
+            "x = 15",
+            "x = 10",
+            "x = 7"
+        ],
+        "ans": "x = 5"
+    },
+    {
+        "category": "Maths",
+        "que": "What is the value of sin(30°)?",
+        "options": [
+            "1/2",
+            "√2/2",
+            "√3/2",
+            "1"
+        ],
+        "ans": "1/2"
+    },
+    {
+        "category": "Maths",
+        "que": "If a rectangle has length 8 units and width 5 units, what is the area?",
+        "options": [
+            "13 square units",
+            "30 square units",
+            "40 square units",
+            "56 square units"
+        ],
+        "ans": "40 square units"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the largest organ in the human body?",
+        "options": [
+            "Heart",
+            "Liver",
+            "Skin",
+            "Lungs"
+        ],
+        "ans": "Skin"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the function of red blood cells?",
+        "options": [
+            "Carrying oxygen",
+            "Digesting food",
+            "Fighting infections",
+            "Producing hormones"
+        ],
+        "ans": "Carrying oxygen"
+    },
+    {
+        "category": "Biology",
+        "que": "What is DNA?",
+        "options": [
+            "Digital Network Architecture",
+            "Deoxyribonucleic Acid",
+            "Diverse Nuclear Adaptation",
+            "Dynamic Nucleotide Arrangement"
+        ],
+        "ans": "Deoxyribonucleic Acid"
+    },
+    {
+        "category": "Biology",
+        "que": "Which gas do humans exhale during respiration?",
+        "options": [
+            "Oxygen",
+            "Carbon Dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "ans": "Carbon Dioxide"
+    },
+    {
+        "category": "Biology",
+        "que": "What is the process of photosynthesis?",
+        "options": [
+            "Conversion of light into energy",
+            "Conversion of carbon dioxide into oxygen",
+            "Conversion of glucose into energy",
+            "Conversion of water into energy"
+        ],
+        "ans": "Conversion of light into energy"
+    }
+]
